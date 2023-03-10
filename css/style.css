@@ -3,9 +3,9 @@
     background-size: cover;
     background-image: url("../images/background-img1.jpg");
 }
-.section-height{
+.section-height {
     height: 750px;
 }
 .avatares {
-    height: 50vh;
+    height: 100vh;
 }
