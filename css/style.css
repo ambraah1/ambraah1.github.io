@@ -1,8 +1,7 @@
-.body {
+.fondo {
     height: 100vh;
-    background-image: url('./images/background-img1.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/background-img1.jpg");
 }
 .section-height{
     height: 750px;
