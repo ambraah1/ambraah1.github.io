@@ -3,9 +3,15 @@
     background-size: cover;
     background-image: url("../images/background-img1.jpg");
 }
+
 .section-height {
     height: 750px;
 }
+
 .avatares {
     height: 60vh;
+}
+
+.font {
+    font-family: 'Sono', sans-serif;
 }
