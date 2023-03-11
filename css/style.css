@@ -17,3 +17,7 @@
 .font {
     font-family: 'Sono', sans-serif;
 }
+
+.text-justify {
+    text-align: justify;
+}
